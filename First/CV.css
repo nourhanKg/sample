@@ -1,0 +1,21 @@
+body
+{
+    border-style: double; border-color: midnightblue; border-width: 12px; font-size: 20px;
+}
+h1, p
+{
+    color: midnightblue; text-align: center;
+}
+span
+{
+    font-weight: bold;
+}
+.title
+{
+    background-color: midnightblue; color: white; 
+    padding: 5px; font-size: 24px; font font-weight: bold;
+}
+div
+{
+    padding: 10px; color: midnightblue;
+}
